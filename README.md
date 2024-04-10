@@ -1,4 +1,5 @@
 # Top AI Agents
+
 A list of top AI agents
 
 ![aiagents](https://github.com/SamurAIGPT/Top-AI-Agents/assets/4326215/04319803-e236-45ed-be55-98aab73b6453)
@@ -18,7 +19,7 @@ A list of top AI agents
 | ![Logo](https://framerusercontent.com/images/0kim0fDKK857PN2pUteOERm15c.jpg) Wordware | Build better language model apps, fast.WordwareNEW | [Link](https://www.wordware.ai/) |  | [Link](https://twitter.com/wordware_ai) |
 | ![Logo](https://framerusercontent.com/images/j1DxPYyzveLc1fNPe7IRhklro.png) Ability AI | Secure, People-Centric Autonomous AI AgentsAbility AI | [Link](https://ability.ai/) |  |  |
 | ![Logo](https://framerusercontent.com/images/81tc5HOisywoqiuZyA7sp0cYg.png) Adala | Adala: Autonomous Data (Labeling) Agent frameworkAdala |  | [Link](https://github.com/HumanSignal/Adala) |  |
-| ![Logo](https://framerusercontent.com/images/LQfq3Gh2N1lOt8X5GZTS1eZl3g.png) Adept AI | ML research and product lab building intelligenceAdept AI |  |  | [Link](https://www.adept.ai/?utm_source=awesome-ai-agents) |
+| ![Logo](https://framerusercontent.com/images/LQfq3Gh2N1lOt8X5GZTS1eZl3g.png) Adept AI | ML research and product lab building intelligenceAdept AI |  |  | [Link](https://www.adept.ai/) |
 | ![Logo](https://framerusercontent.com/images/WQEsBclZe3uwujBApl1m7J6jdHo.png) Agent4Rec | Recommender system simulator with 1,000 agentsAgent4Rec |  |  |  |
 | ![Logo](https://framerusercontent.com/images/krhdiYQG404nXM1IG2MYTngcBc.png) AgentForge | LLM-agnostic platform for agent building & testingAgentForge | [Link](https://www.agentforge.net/) | [Link](https://github.com/DataBassGit/AgentForge) | [Link](https://twitter.com/AgentForge) |
 | ![Logo](https://framerusercontent.com/images/VZtVSlsVS8Qz8pJ2DTbJJUfD8bA.png) AgentGPT | Browser-based no-code version of AutoGPTAgentGPT | [Link](https://agentgpt.reworkd.ai/) | [Link](https://agentgpt.reworkd.ai/) |  |
@@ -32,13 +33,13 @@ A list of top AI agents
 | ![Logo](https://framerusercontent.com/images/vZGffuQ3Vl1PNc8OZf9SJdNyoc.png) AilaFlow | No-code platform for building AI agentsAilaFlow | [Link](https://ailaflow.com/) |  |  |
 | AIlice | Create agents-calling tree to execute your tasksAIliceNEW | [Link](https://github.com/myshell-ai/AIlice) | [Link](https://github.com/myshell-ai/AIlice) |  |
 | Airkit.ai | Platform for building, testing, deploying AgentsAirkit.ai | [Link](https://www.airkit.ai/) |  | [Link](https://twitter.com/AirkitAI) |
-| ![Logo](https://framerusercontent.com/images/Pwe3Kg3LNBBWyLFEQ9F1dZ5ukA.png) Airplane Autopilot | Autopilot AI assistant of the Airplane companyAirplane Autopilot | [Link](https://www.airplane.dev/?utm_source=awesome-ai-agents) |  | [Link](https://twitter.com/AirplaneDev/?utm_source=awesome-ai-agents) |
+| ![Logo](https://framerusercontent.com/images/Pwe3Kg3LNBBWyLFEQ9F1dZ5ukA.png) Airplane Autopilot | Autopilot AI assistant of the Airplane companyAirplane Autopilot | [Link](https://www.airplane.dev/) |  | [Link](https://twitter.com/AirplaneDev/) |
 | ![Logo](https://framerusercontent.com/images/7ZwSPFHkSLSVJAhG0uDaFk9wk.png) Aomni | AI agent designed for business intelligenceAomni |  |  |  |
 | ![Logo](https://framerusercontent.com/images/NCxp11JJVJ8HkKSSulCipQBR27Y.png) Artisian AI | Agents for sales, e-mails, book keeping & moreArtisian AI |  | [Link](https://github.com/Artisan-AI) | [Link](https://twitter.com/GetArtisanAI) |
 | ![Logo](https://framerusercontent.com/images/j0A6ryyJs6XHVopoPKvQI9jAMg.png) AskToSell | Meet autonomous AI sales agents that close dealsAskToSell | [Link](https://asktosell.com/) |  |  |
 | ![Logo](https://framerusercontent.com/images/XdSX8xEL2MhB3r0PgaSesMf00.png) AskYourDatabase | Chat with SQL database, explore and visualize dataAskYourDatabase | [Link](https://www.askyourdatabase.com/) |  |  |
 | ![Logo](https://framerusercontent.com/images/kilmEDcUu7r5IyD1qOJyPYoTJI.png) AutoGen | Multi-agent framework with diversity of agentsAutoGen |  |  |  |
-| ![Logo](https://framerusercontent.com/images/0XbmS4NY5rDAuBOlpg5Q30xidY.png) AutoGPT | Experimental attempt to make GPT4 fully autonomousAutoGPT |  | [Link](https://github.com/Significant-Gravitas/Auto-GPT/?utm_source=awesome-ai-agents) | [Link](https://twitter.com/Auto_GPT/?utm_source=awesome-ai-agents) |
+| ![Logo](https://framerusercontent.com/images/0XbmS4NY5rDAuBOlpg5Q30xidY.png) AutoGPT | Experimental attempt to make GPT4 fully autonomousAutoGPT |  | [Link](https://github.com/Significant-Gravitas/Auto-GPT/) | [Link](https://twitter.com/Auto_GPT/) |
 | ![Logo](https://framerusercontent.com/images/FVta5CdSzJ2uM2vST6jwkOZQ.png) Automata | Generate code based on your project contextAutomata |  |  |  |
 | Autonomous HR Chatbot | Agent that answers HR-related queries using toolsAutonomous HR Chatbot |  | [Link](https://github.com/stepanogil/autonomous-hr-chatbot) |  |
 | ![Logo](https://framerusercontent.com/images/kuQZ88FfA06DnJzI8hNAkUGU7Y.png) AutoPR | AI-generated pull requests agent that fixes issuesAutoPR |  |  |  |
@@ -171,6 +172,6 @@ A list of top AI agents
 | ![Logo](https://framerusercontent.com/images/z9dLo20B5DRacYdEYXBO7LDWmjg.png) Wispy | Summarize content, compose content, create quizzesWispy | [Link](https://wispy.technicalmagic.ai/) |  |  |
 | WorkGPT | GPT agent framework for invoking APIsWorkGPT |  |  |  |
 | ![Logo](https://framerusercontent.com/images/G7TE1pzGbmTC6XtUJB85ehTQsE.png) XAgent | Experimental LLM agent that solves various tasksXAgent |  | [Link](https://github.com/OpenBMB/XAgent) | [Link](https://twitter.com/XAgentTeam) |
-| yAgents | Capable of designing, coding and debugging toolsyAgents |  | [Link](https://github.com/yeagerai/yeagerai-agent/?utm_source=awesome-ai-agents) |  |
+| yAgents | Capable of designing, coding and debugging toolsyAgents |  | [Link](https://github.com/yeagerai/yeagerai-agent/) |  |
 | Yourgoal | Swift implementation of BabyAGIYourgoal |  |  |  |
 

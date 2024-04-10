@@ -1,6 +1,8 @@
 # Top AI Agents
 A list of top AI agents
 
+![aiagents](https://github.com/SamurAIGPT/Top-AI-Agents/assets/4326215/04319803-e236-45ed-be55-98aab73b6453)
+
 | Title | Tagline | Website URL | GitHub URL | Twitter URL |
 |-------|---------|-------------|------------|-------------|
 | ![Logo](https://framerusercontent.com/images/ljDtKijYSaVaCY6Rux7bak28E0.png) ChatArena | A chat tool for multi agent interactionChatArenaNEW | [Link](https://www.chatarena.org/) | [Link](https://github.com/Farama-Foundation/chatarena) | [Link](https://twitter.com/_chatarena) |

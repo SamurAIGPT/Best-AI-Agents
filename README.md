@@ -11,10 +11,19 @@ A list of top AI agents
 | ![Logo](https://framerusercontent.com/images/DF6dRLhS6QdzQX5v1Ty39GnDA.png) Cognosys | Web-based version of AutoGPT or BabyAGI | [Link](https://www.cognosys.ai/) | |  |
 | ![Logo](https://framerusercontent.com/images/VkrzvNwaWh4DbDwyBQ0GN3KuGTw.png) Godmode | Inspired by AutoGPT and BabyAGI, with nice UI | [Link](https://godmode.space) |  |  |
 | ![Logo](https://framerusercontent.com/images/anCwdMbghpiibMWZS2oEKelBlE.png) evo.ninja | AI agent that adapts its persona to achive tasks | [Link](https://evo.ninja/) | [Link](https://github.com/polywrap/evo.ninja/) |  |
+| ![Logo](https://framerusercontent.com/images/ao3DkC79XSpcW0pBupiDMVZfzyk.png) Self-operating computer | Let multimodal models operate a computer | [Link](https://www.hyperwriteai.com/self-operating-computer) | [Link](https://github.com/OthersideAI/self-operating-computer) |  |
+| ![Logo](https://framerusercontent.com/images/7ZwSPFHkSLSVJAhG0uDaFk9wk.png) Aomni | AI agent designed for business intelligence | [Link](https://www.aomni.com/) |  |  |
+| ![Logo](https://framerusercontent.com/images/kilmEDcUu7r5IyD1qOJyPYoTJI.png) AutoGen | Multi-agent framework with diversity of agents | [Link](https://microsoft.github.io/autogen/) | [Link](https://github.com/microsoft/autogen) |  |
+| ![Logo](https://framerusercontent.com/images/aAW9to9J7h3oVJvrjxwDb1R95GY.png) SuperAGI | Framework to develop and deploy AI agents |  |  | [Link](https://twitter.com/_superAGI) |
+| ![Logo](https://framerusercontent.com/images/zEAdEzwf6l0Y0kY2iQtb2IvjDU.png) Superagent | Tool that allows creating agents without coding | [Link](https://www.superagent.sh/) | [Link](https://github.com/homanp/superagent) |  |
+| ![Logo](https://framerusercontent.com/images/w3J6lNoFGyQQ6enRkQRYhI9drs.png) CrewAI | Framework for orchestrating role-playing agents | [Link](https://www.crewai.io/) | [Link](https://github.com/joaomdmoura/crewai) |  |
+| GPT Researcher | Agent that researches entire internet on any topic | [Link](https://tavily.com/) | [Link](https://github.com/assafelovic/gpt-researcher) |  |
+| ![Logo](https://framerusercontent.com/images/ugwFLqSgh73GQ66ImApHAp1pRQU.png) Lindy | AI assistant that can help with daily tasks | [Link](https://www.lindy.ai/) |  |  |
+| ![Logo](https://framerusercontent.com/images/CgQosvVibgulvP0QC17ZiE4OY8.png) MultiOn | Book a flight or order a burger with MultiOn | [Link](https://www.multion.ai/) |  | [Link](https://twitter.com/MultiON_AI) |
+| ![Logo](https://framerusercontent.com/images/difYUZDNiqfyvzUFASywBMvb2E.png) Phind | Personal programming and research AI assistant | [Link](https://www.phind.com/) |  | [Link](https://twitter.com/phindsearch) |
 | ![Logo](https://framerusercontent.com/images/ljDtKijYSaVaCY6Rux7bak28E0.png) ChatArena | A chat tool for multi agent interaction | | [Link](https://github.com/Farama-Foundation/chatarena) | [Link](https://twitter.com/_chatarena) |
 | GPT Discord | The ultimate AI agent integration for DiscordGPT |  | [Link](https://github.com/Kav-K/GPTDiscord) |  |
 | ![Logo](https://framerusercontent.com/images/967E5f7EmVTEODJ2VG3cvsMY9xQ.png) LLM Stack | No-code platform to build LLM | [Link](https://llmstack.ai/) | [Link](https://github.com/trypromptly/LLMStack) |  |
-| ![Logo](https://framerusercontent.com/images/ao3DkC79XSpcW0pBupiDMVZfzyk.png) Self-operating computer | Let multimodal models operate a computer | [Link](https://www.hyperwriteai.com/self-operating-computer) | [Link](https://github.com/OthersideAI/self-operating-computer) |  |
 | ![Logo](https://framerusercontent.com/images/pqADbAtJ7Ct5BL9yrC7P7qLAY.png) Code Autopilot | AI Assistant for your project | [Link](https://www.codeautopilot.com/) |  | [Link](https://twitter.com/code_autopilot) |
 | ![Logo](https://framerusercontent.com/images/pxt8jnJcQb52psIaxML2O0LwHPE.png) CodeWP | AI Agent for WordPress websites | [Link](https://codewp.ai/) | [Link](https://github.com/wpai-inc/) | [Link](https://twitter.com/codewp_ai) |
 | ![Logo](https://framerusercontent.com/images/mqm7OT8HY8EY04MujMaxvT8E.png) Juno | AI-led user interviews for rich human insights | [Link](https://heyjuno.co/) |  | [Link](https://twitter.com/heyjunoco) |
@@ -38,11 +47,9 @@ A list of top AI agents
 | AIlice | Create agents-calling tree to execute your tasks | [Link](https://github.com/myshell-ai/AIlice) | [Link](https://github.com/myshell-ai/AIlice) |  |
 | Airkit.ai | Platform for building, testing, deploying Agents | [Link](https://www.airkit.ai/) |  | [Link](https://twitter.com/AirkitAI) |
 | ![Logo](https://framerusercontent.com/images/Pwe3Kg3LNBBWyLFEQ9F1dZ5ukA.png) Airplane Autopilot | Autopilot AI assistant of the Airplane company | [Link](https://www.airplane.dev/) |  | [Link](https://twitter.com/AirplaneDev/) |
-| ![Logo](https://framerusercontent.com/images/7ZwSPFHkSLSVJAhG0uDaFk9wk.png) Aomni | AI agent designed for business intelligence | [Link](https://www.aomni.com/) |  |  |
 | ![Logo](https://framerusercontent.com/images/NCxp11JJVJ8HkKSSulCipQBR27Y.png) Artisian AI | Agents for sales, e-mails, book keeping & more |  | [Link](https://github.com/Artisan-AI) | [Link](https://twitter.com/GetArtisanAI) |
 | ![Logo](https://framerusercontent.com/images/j0A6ryyJs6XHVopoPKvQI9jAMg.png) AskToSell | Meet autonomous AI sales agents that close deals | [Link](https://asktosell.com/) |  |  |
 | ![Logo](https://framerusercontent.com/images/XdSX8xEL2MhB3r0PgaSesMf00.png) AskYourDatabase | Chat with SQL database, explore and visualize data | [Link](https://www.askyourdatabase.com/) |  |  |
-| ![Logo](https://framerusercontent.com/images/kilmEDcUu7r5IyD1qOJyPYoTJI.png) AutoGen | Multi-agent framework with diversity of agents | [Link](https://microsoft.github.io/autogen/) | [Link](https://github.com/microsoft/autogen) |  |
 | ![Logo](https://framerusercontent.com/images/FVta5CdSzJ2uM2vST6jwkOZQ.png) Automata | Generate code based on your project context |  | [Link](https://github.com/emrgnt-cmplxty/automata) |  |
 | Autonomous HR Chatbot | Agent that answers HR-related queries using tools |  | [Link](https://github.com/stepanogil/autonomous-hr-chatbot) |  |
 | ![Logo](https://framerusercontent.com/images/kuQZ88FfA06DnJzI8hNAkUGU7Y.png) AutoPR | AI-generated pull requests agent that fixes issues |  | [Link](https://github.com/irgolic/AutoPR) |  |
@@ -73,7 +80,6 @@ A list of top AI agents
 | ![Logo](https://framerusercontent.com/images/oK7jUtMwo4goeWG0FfvJepeRU.png) Cody by Sourcegraph | Agent that writes code and answers your questions |  | [Link](https://github.com/sourcegraph/sourcegraph/tree/main/client/cody) |  |
 | ![Logo](https://framerusercontent.com/images/8sdcqv4SShn9X5M1EMR2rU5cUgo.png) Commit | Career Copilot and AI Agent for SW Developers | [Link](https://gpt.commit.dev/) |  |  |
 | ![Logo](https://framerusercontent.com/images/MNgix8SJGUzFA1zSn7udzvgUmk.png) Continue | Open-source autopilot for software development | [Link](https://continue.dev/) | [Link](https://github.com/continuedev/continue) | [Link](https://twitter.com/continuedev) |
-| ![Logo](https://framerusercontent.com/images/w3J6lNoFGyQQ6enRkQRYhI9drs.png) CrewAI | Framework for orchestrating role-playing agents | [Link](https://www.crewai.io/) | [Link](https://github.com/joaomdmoura/crewai) |  |
 | ![Logo](https://framerusercontent.com/images/JboB4c7KHOcoGv2YYYKPDKewTM.png) Cursor | AI-powered Code Editor with VSCode-like UI | [Link](https://www.cursor.so/) | [Link](https://github.com/getcursor/cursor) |  |
 | ![Logo](https://framerusercontent.com/images/LFwEjIRinJnb7YE2AR0nUgRkuGI.png) Cykel | Interact with any UI, website or API | [Link](https://www.cykel.ai/) |  | [Link](https://twitter.com/CykelAI) |
 | ![Logo](https://framerusercontent.com/images/xi11cIRgKTQ2zME5IioEro0naHo.png) Databerry | (Pivoted to Chaindesk) No-code cahtbot building |  | [Link](https://github.com/gmpetrov/databerry) |  |
@@ -93,14 +99,13 @@ A list of top AI agents
 | ![Logo](https://framerusercontent.com/images/ifY8xnvd3SF6rOGOcHT50Vye4s.png) Floode | Executive agent automating communication busywork |  |  | [Link](https://twitter.com/floodehq) |
 | Friday | AI developer assistant for Node.js |  |  |  |
 | ![Logo](https://framerusercontent.com/images/ZrjAiQsAAWVoGG1NkycT5DKnXuA.png) GeniA | Engineering platform engineering AI team member |  |  |  |
-| ![Logo](https://framerusercontent.com/images/qkTvJlDSvZvHynaGUgawwnDseY.png) GitHub Copilot X | AI-powered software developer |  |  | [Link](https://twitter.com/GitHubCopilot) |
+| ![Logo](https://framerusercontent.com/images/qkTvJlDSvZvHynaGUgawwnDseY.png) GitHub Copilot X | AI-powered software developer | [Link](https://github.com/features/copilot/) |  | [Link](https://twitter.com/GitHubCopilot) |
 | ![Logo](https://framerusercontent.com/images/s5gv9jw8NQ7myEcRTAUjEQyxqFc.png) GitLab Duo | AI for every step of SW development lifecycle |  |  | [Link](https://twitter.com/gitlab) |
 | ![Logo](https://framerusercontent.com/images/7MLOh5x41CPzN0Ws8d4s0gMBgg.png) GitWit | Automate code generation with AI. In beta version |  |  |  |
-| GoCharlie | Multimodal content creation autonomous agent |  |  | [Link](https://twitter.com/GocharlieAI) |
+| GoCharlie | Multimodal content creation autonomous agent | [Link](https://gocharlie.ai/) |  | [Link](https://twitter.com/GocharlieAI) |
 | ![Logo](https://framerusercontent.com/images/AzUtn4lzwd6WjIKZqYaAlv6XkAo.png) GPT Engineer | Generates entire codebase based on a prompt | [Link](https://gptengineer.app/) | [Link](https://github.com/AntonOsika/gpt-engineer) |  |
 | ![Logo](https://framerusercontent.com/images/PCeCj7eCw3VQHpnD7UFIKjKLwyQ.png) GPT Migrate | Migrate codebase between frameworks/languages | [Link](https://gpt-migrate.com/) |  |  |
 | ![Logo](https://framerusercontent.com/images/nzzxXanp0HGoBP5hVMe2d27mX4w.png) GPT Pilot | Code the entire scalable app from scratch |  | [Link](https://github.com/Pythagora-io/gpt-pilot) |  |
-| GPT Researcher | Agent that researches entire internet on any topic | [Link](https://tavily.com/) |  |  |
 | ![Logo](https://framerusercontent.com/images/IktAUbuAjqW4C39ObBhCZ85O3rQ.png) GPT Runner | Agent that converses with your files | [Link](https://github.com/nicepkg/gpt-runner) |  |  |
 | ![Logo](https://framerusercontent.com/images/vVxWVc9QR0lXdRVRIdgY5DO00o.png) Graphlit | API-first data platform for building apps with AI | [Link](https://www.graphlit.com/) | [Link](https://github.com/graphlit) | [Link](https://twitter.com/graphlit) |
 | ![Logo](https://framerusercontent.com/images/qbJJmPWBgoazXUd55y9SnyvAb08.png) Grit | Automating code migrations and dependency upgrades |  |  | [Link](https://twitter.com/gritdotio) |
@@ -115,7 +120,6 @@ A list of top AI agents
 | ![Logo](https://framerusercontent.com/images/L7cWSBQ4VBsBtVaMUucGP8Jd1sk.png) Kadoa | Web Scraping on Autopilot with AI |  |  |  |
 | ![Logo](https://framerusercontent.com/images/hQ8pC7oGRxCKbssfBwiOB2Xm6I.png) Langroid | Multi-agent framework for building LLM apps |  |  |  |
 | Lemon Agent | Plan-Validate-Solve agent for workflow automationLemon Agent |  |  |  |
-| ![Logo](https://framerusercontent.com/images/ugwFLqSgh73GQ66ImApHAp1pRQU.png) Lindy | AI assistant that can help with daily tasks |  |  |  |
 | LLM Agents | Library for building agents, using tools, planning |  | [Link](https://github.com/mpaepper/llm_agents) |  |
 | Local GPT | Chat with documents without compromising privacy |  | [Link](https://github.com/PromtEngineer/localGPT) |  |
 | Loop GPT | Re-implementation of AutoGPT as a Python package |  |  |  |
@@ -129,7 +133,6 @@ A list of top AI agents
 | ![Logo](https://framerusercontent.com/images/NCmAuKThhqSXF8wr8ivThue84WA.png) Minion AI | By creator of GitHub Copilot, in waitlist stage |  |  | [Link](https://twitter.com/ai_minion) |
 | Multi GPT | Experimental multi-agent system |  |  |  |
 | Multiagent Debate | Implementation of a paper on Multiagent Debate |  | [Link](https://github.com/composable-models/llm_multiagent_debate) |  |
-| ![Logo](https://framerusercontent.com/images/CgQosvVibgulvP0QC17ZiE4OY8.png) MultiOn | Book a flight or order a burger with MultiOn |  |  | [Link](https://twitter.com/MultiON_AI) |
 | Mutable AI | AI-Accelerated Software Development |  | [Link](https://github.com/mutableai/) | [Link](https://twitter.com/mutableai) |
 | ![Logo](https://framerusercontent.com/images/kbPhXglvJd3A2SnKptoGiTyQ.png) Naut | Build your own agents. In early stage |  |  | [Link](https://twitter.com/naut_ai) |
 | NLSOM | Natural Language-Based Societies of Mind |  | [Link](https://github.com/mczhuge/NLSOM) |  |
@@ -138,7 +141,6 @@ A list of top AI agents
 | OpenAGI | R&D agents platform |  | [Link](https://github.com/agiresearch/OpenAGI) |  |
 | ![Logo](https://framerusercontent.com/images/qNYuoup1YLUIJFkyrkhKDK9s2g.png) Otherside's AI Assistant | Assistant for daily tasks, works with web browser | [Link](https://chromewebstore.google.com/detail/hyperwrite-ai-assistant/kljjoeapehcmaphfcjkmbhkinoaopdnd) |  |  |
 | ![Logo](https://framerusercontent.com/images/F3jOmQn3HEYLHYvdnFVEEGv49M.png) Pezzo | Development toolkit for prompt management & more |  | [Link](https://github.com/pezzolabs/pezzo) |  |
-| ![Logo](https://framerusercontent.com/images/difYUZDNiqfyvzUFASywBMvb2E.png) Phind | Personal programming and research AI assistant | [Link](https://www.phind.com/) |  | [Link](https://twitter.com/phindsearch) |
 | ![Logo](https://framerusercontent.com/images/fa6LCIhyC2Ov2PlWYAqlXIqHc.png) Private GPT | Tool for private interaction with your documents |  | [Link](https://github.com/imartinez/privateGPT) |  |
 | ![Logo](https://framerusercontent.com/images/ftkajYijMevsXFmqFygbLWxWeQ.png) Proficient AI | Interaction APIs and SDKs for building AI agents |  | [Link](https://github.com/proficientai/js) |  |
 | ![Logo](https://framerusercontent.com/images/swkOsdkisN145s7gonzLUQc704.png) PromethAI | AI agent that helps with nutrition and other goals | [Link](https://prometh.ai/) | [Link](https://github.com/topoteretes/) |  |
@@ -151,8 +153,6 @@ A list of top AI agents
 | ![Logo](https://framerusercontent.com/images/WmUkBciAb0X0Bz9pjNwtypkpt9I.png) Smol developer | Your own junior AI developer, deployed via E2B UI |  |  | [Link](https://twitter.com/SmolModels) |
 | ![Logo](https://framerusercontent.com/images/4JiqpRG12bjg2yAe98YOPXdqgY.png) Spell | AutoGPT agents with plugins | [Link](https://spell.so/) |  |  |
 | ![Logo](https://framerusercontent.com/images/wA2dxI7kV3aDP8VeuBeeNq4b1D0.png) Stackwise | VSCode extension that writes nodejs functions |  | [Link](https://github.com/stackwiseai/stackwise) | [Link](https://twitter.com/stackwiseai) |
-| ![Logo](https://framerusercontent.com/images/zEAdEzwf6l0Y0kY2iQtb2IvjDU.png) Superagent | Tool that allows creating agents without coding | [Link](https://www.superagent.sh/) | [Link](https://github.com/homanp/superagent) |  |
-| ![Logo](https://framerusercontent.com/images/aAW9to9J7h3oVJvrjxwDb1R95GY.png) SuperAGI | Framework to develop and deploy AI agents |  |  | [Link](https://twitter.com/_superAGI) |
 | ![Logo](https://framerusercontent.com/images/CQEdFLv6NXLV4pZjMDSfgYu6G0.png) Superluminal | AI copilot to your product's data dashboard |  |  | [Link](https://twitter.com/getluminal/) |
 | Suspicion Agent | Paper on imperfect information games |  | [Link](https://github.com/CR-Gjx/Suspicion-Agent) |  |
 | ![Logo](https://framerusercontent.com/images/XJwmZp1lq6rOPmLwA8WvSLydqw.png) Sweep | Github assistant that fixes issues & writes code |  | [Link](https://github.com/sweepai) |  |

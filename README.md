@@ -21,6 +21,7 @@ A list of top AI agents
 | ![Logo](https://framerusercontent.com/images/ugwFLqSgh73GQ66ImApHAp1pRQU.png) Lindy | AI assistant that can help with daily tasks | [Link](https://www.lindy.ai/) |  |  |
 | ![Logo](https://framerusercontent.com/images/CgQosvVibgulvP0QC17ZiE4OY8.png) MultiOn | Book a flight or order a burger with MultiOn | [Link](https://www.multion.ai/) |  | [Link](https://twitter.com/MultiON_AI) |
 | ![Logo](https://framerusercontent.com/images/difYUZDNiqfyvzUFASywBMvb2E.png) Phind | Personal programming and research AI assistant | [Link](https://www.phind.com/) |  | [Link](https://twitter.com/phindsearch) |
+| Pythagora | Generate automated tests with LLM | [Link](https://www.pythagora.ai/) | [Link](https://github.com/Pythagora-io/pythagora) | |
 | ![Logo](https://framerusercontent.com/images/ljDtKijYSaVaCY6Rux7bak28E0.png) ChatArena | A chat tool for multi agent interaction | | [Link](https://github.com/Farama-Foundation/chatarena) | [Link](https://twitter.com/_chatarena) |
 | GPT Discord | The ultimate AI agent integration for DiscordGPT |  | [Link](https://github.com/Kav-K/GPTDiscord) |  |
 | ![Logo](https://framerusercontent.com/images/967E5f7EmVTEODJ2VG3cvsMY9xQ.png) LLM Stack | No-code platform to build LLM | [Link](https://llmstack.ai/) | [Link](https://github.com/trypromptly/LLMStack) |  |
